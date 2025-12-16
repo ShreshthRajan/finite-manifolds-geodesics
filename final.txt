@@ -1,0 +1,103 @@
+DIFFERENTIAL GEOMETRY
+MATH 136
+
+Final Exam Paper
+Assignment: due December 14, 2025
+Write an expository paper about a topic in differential geometry of your choice.
+Rules
+• The paper must be written by yourself. No human or AI assistance is allowed
+in writing.
+• Acknowledge any references used: books, papers, web, discussions, the use of
+computer algebra.
+• Aim for 4 or more pages with references. There can be illustrations. Also for
+illustrations, either do them yourself or give credit.
+Grading criteria
+(1) Mathematical correctness
+(2) Clarity, readability and elegance
+(3) References and sources
+(4) Adaptation to the course, notation
+(5) Originality or depth or surprise
+The paper is 60 points, the in class exam is 40 points. In total: 100 points.
+Topic suggestions
+Pick or modify one of the following topics. If you prefer an other topic, check with
+Oliver. The topic needs to be related to this course - of course!
+(1) ”Positive Curvature Manifolds”. Examples of even dimensional manifolds
+for which all sectional curvatures are positive.
+(2) ”Clifton-Pohl torus” A pseudo Riemannian manifold on which the geodesic
+flow is not complete.
+(3) ”Caustics in Riemannian geometry?”
+(4) ”What is a Jacobi field?”
+(5) ”Differential geometry of evolutes.”
+(6) ”Principal curvatures and umbillic points”
+(7) ”The symmetries of the Riemann tensor” Like Bianchi identities.
+(8) ”Minimal surfaces”
+(9) ”Chaotic geodesic flows” (like on surfaces of constant negative curvature).
+
+Differential Geometry
+
+(10) ”My favorite Riemanninan manifold”. i.e. projective plane, the Klein
+bottle, the hyperbolic plane, the projective 3-space SO(3) (a 3 manifold) or
+SU (3) (a 8 dimensional manifold).
+(11) ”The Differentiable Jordan Curve theorem”. Easier than the topological
+Jordan Curve theorem. Prove it. See Do carmo page 400.
+(12) ”The Hopf-Rynov Theorem”: Two points on a complete surface can be
+joined by a minimal geodesic. See Do Carmo page 338.
+(13) ”The formulas of Codazzi-Meinardi”. See section 4.C in Kuehnel.
+(14) ”The world of discrete manifolds”. Explore small examples of discrete
+manifolds, I.e. Klein bottles, projective planes, or higher genus Klein bottles.
+(15) ”The Brachistochrone problem” An example of a variational problem.
+(16) ”The Hilbert Action” Outline the proof that critical points of the Hilbert
+action are Einstein manifolds.
+(17) ”What are Minimal Surfaces?”. See chapter 3D in Kuehnel.
+(18) ”Complex manifolds” or Kähler manifolds.
+(19) ”The complex projective plane CP2 .
+(20) ”What is a Kalabi-Yau manifold?
+(21) ”How can Morse theory help to understand Riemannian geometry?”
+(22) ”What are Ruled surfaces?” Section 3C in Kuehnel.
+(23) ”The rigidity of the sphere” a compact connected regular surface of constant
+curvature must be a sphere. There is a section in Do Carmo.
+(24) ”Clairaut’s relation for geodesics” A conserved quantity for geodesics in
+surfaces of revolution”.
+(25) ”The isoperimetric inequality”. There is an exposition in Do Carmo.
+(26) ”Geodesic rigidity of Gauss”: if p, q are two points on a manifold and if
+γs (t) is a smooth family of geodesics connecting p, q, then all these geodesics
+must have the same length.
+(27) Gauss Lemma in Riemannian geometry: why are geodesics are perpendicular to wave fronts.
+(28) ”Exotic spheres?” What are spheres with non-standard differential structure.
+(29) ”What is Willmore energy?” The boy surface is known as ”Oberwohlfach
+surface”. A theorem of Bryant-Kusner tells that the Boy surface minimizes the
+Willmore energy.
+(30) ”Geometry of hyperbolic space”. i.e. geodesics, in a 2 dimensional manifold of constant curvature -1. Gauss-Bonnet for polygons.
+(31) ”Fenchel’s theorem” or the Fary-Milnor theorem about total curvature of
+curves. There is a section in Kuehnel.
+(32) ”The fundamental theorem of Riemannian geometry” a connection satisfying three axioms must be the Christoffel connection.
+(33) ”Classifying 2-manifolds”. Describe the classification of 2-manifold as a
+connected sum of tori or projective planes.
+(34) ”Spherical space forms”. See for example Theorem 7.30 in Kuehnel.
+(35) ”What are lense spaces”? What are spherical 3-manifolds?
+(36) ”Synge’s theorem”: an even dimensional orientable positive curvature manifold is simply connected.
+(37) ”The Poinare conjecture”. How was the Poincare conjecture proven. Especially define the Ricci flow using notation we have used.
+
+(38) ”Surgery of 3-manifolds”. Explain how one can use knots to build 3manifolds. Especially Dehn surgery and the Lickorish-Wallace theorem.
+(39) ”The Kerr Metric”. A solution of the Einstein equations. The Kerr metric”
+models a rotating non-charged black hole. The Kerr-Newman metric a rotating
+charged black hole.
+(40) ”Bertrand-Puiseux formulas”. Prove |Sr (p)| = 2πr − πKϵ3 /3 + ....
+(41) ”Chaotic Billiards”. The geodesic flow in manifolds with boundary. is called
+a billiard. This involves curvature.
+(42) ”Riemannian metrics on Lie groups”. Like on SO(3) or SU (2). How does
+one get a Riemannian metric on such spaces?
+(43) ”The Willmore conjecture”. What is the Willmore energy? Explain the
+conjecture and how it was solved.
+(44) ”The tensor algebra”. Especially the exterior algebra of skew symmetric
+tensors.
+(45) ”Counting Periodic geodesics.”
+(46) ”The isometric embedding problem R3 .”
+(47) Open questions in Riemannian geometry
+(48) Look at the inverse Frenet problem in the case of piecewise linear
+periodic curvatures.
+(49) ”Curvature of convex polyhedra in four dimensions.”
+(50) ”Curvature in a conformal metric.
+Oliver Knill, knill@math.harvard.edu, Math 136, Fall, 2025
+
+

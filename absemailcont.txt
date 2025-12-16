@@ -1,0 +1,47 @@
+
+Shreshth Rajan <shreshthrajan@college.harvard.edu>
+Mon, Dec 8, 12:45 AM (3 days ago)
+to Oliver
+
+Hi Dr. Knill,
+
+I’ve spent the past few days since we spoke reading more about discrete curvature, Gauss-Bonnet, and Regge-style geometry, and I think I’ve converged on a final project topic that also connects to the world model / GR intuition I mentioned.
+
+I've been doing a ton of reading on it and I think it's feasible, but I'd love to hear what you think. I have other ideas as well based on what you think. 
+
+Proposed title:
+Geodesics, Curvature, and Divergence on Finite 2-Manifolds
+
+Proposed abstract:
+I propose to study curvature and geodesics on finite 2-manifolds - triangulated surfaces in the sense of graph manifolds from class - and examine how curvature concentration affects the behavior of nearby geodesic paths. I begin with discrete curvature defined through angle defect and review the discrete Gauss–Bonnet theorem ∑vK(v)=2πχ(M), verifying it on small triangulations of the sphere, torus, and projective plane. I then treat geodesics as locally shortest graph paths and analyze how geodesic “fans’’ emanating from a point deviate when the surrounding curvature is positive, negative, or zero. Motivated by this, I introduce a simple discrete geodesic divergence measure comparing each local geodesic fan to the flat (zero-defect) reference model. The measure vanishes on flat triangulations and increases in regions of curvature concentration. While the analogy to geodesic deviation in general relativity and stability in finite “world models’’ is conceptual, the project remains entirely within the discrete differential-geometric framework of the course.
+
+Shreshth 
+
+
+Knill, Oliver
+Mon, Dec 8, 7:42 AM (3 days ago)
+to me
+
+Hi Shreshth, 
+sounds exciting. Make sure to distinguish the "discrete world", where you have graphs and curvature 1-deg(v)/6  or polyhedra (which are part of the continuum) where the curvature is the excess angle. The concept of geodesics is a bit easier in the later case, as you can define this quite well as long as the godesics does not go through corners. Also in graphs we can look at shortest connections but then there is not a dynamics in an obvious way.
+As for the connection with how the fans get larger in the negative curvature case (more than 6 vertices in the graph case) or negative excess angle, this is a good picture. It is related to the Puiseux theorem  which uses the length of a small circle in radius r from the point.
+Oliver 
+--
+
+---------------------------------------------------------------------------------------
+| Oliver Knill                                   Tel: (617) 495-5549
+| Harvard University                       Email: knill@math.harvard.edu
+| Department of Mathematics        Office: Science Center 432
+| One Oxford Street                       Fax: (617) 495-5132
+| Cambridge, MA 02138, USA       www.math.harvard.edu/~knill
+----------------------------------------------------------------------------------------
+
+Shreshth Rajan <shreshthrajan@college.harvard.edu>
+Mon, Dec 8, 9:10 PM (3 days ago)
+to knill
+
+Thanks! This is very helpful. 
+
+I'm very excited about this and will give you an update soon!
+
+Shreshth
